@@ -20,5 +20,6 @@ If Not Intersect(Target, Range("D3")) Is Nothing Then 'Enter this conditional if
 End If
 End Sub
 
-'All macros launched in the switch statement are found in module 1 of the file
+'All macros launched in the switch statement are found in module 1 of the project
+
 
