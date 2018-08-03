@@ -24,8 +24,6 @@ End Sub
 
 Sub FinalSchematic()
 
-ResetColumns
-
 'Resets all columns temporarily, without this columns would continue to be hidden when we want them to be shown
 Columns("E:G").EntireColumn.Hidden = False
 
